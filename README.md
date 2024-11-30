@@ -36,7 +36,6 @@ The COVID-19 dataset from Our World in Data contains various metrics sourced fro
 These SQL scripts were crucial in preparing and exploring the COVID-19 dataset, providing the necessary foundation for subsequent analysis and visualization.
 
 ## Tableau Dashboard
-Access the live dashboard on Tableau Public: ['COVID-19 Dashboard'](https://public.tableau.com/app/profile/jordan.ho1006/viz/COVID19_Dashboard_17088892579140/COVID-19DashboardbyJordanHo)
 
 The Tableau dashboard was designed to visualize key insights and trends related to COVID-19, including total cases, deaths, vaccinations, and their distribution across countries and regions. The dashboard includes KPIs, text charts, symbol maps, and area graphs to provide a comprehensive overview of the pandemic's impact.
 

@@ -61,12 +61,6 @@ The COVID-19 Data Exploration and Dashboard project has provided invaluable insi
 - Enhance interactivity and user experience by adding more filters and drill-down options.
 - Conduct further analysis to identify correlations and causal relationships between variables.
 
-## Files Included
-  - ['COVID19_Dashboard.twbx'](https://github.com/jordanho1006/sql-tableau-projects/blob/main/COVID-19%20Dashboard/COVID19_Dashboard.twbx): This file is the Tableau packaged workbook that contains all the visuals, dashboards, and supporting local file data and background images.
-  - ['COVID-19 Dashboard by Jordan Ho.png'](https://github.com/jordanho1006/sql-tableau-projects/blob/main/COVID-19%20Dashboard/COVID-19%20Dashboard%20by%20Jordan%20Ho.png): A still image of the interactive dashboard created on Tableau Desktop. *Note: These are just images of the interactive dashboards*
-  - ['table_creation.sql'](https://github.com/jordanho1006/sql-tableau-projects/blob/main/COVID-19%20Dashboard/table_creation.sql): This file provides SQL queries tailored for table creation on SQL Server.
-  - ['data_exploration.sql'](https://github.com/jordanho1006/sql-tableau-projects/blob/main/COVID-19%20Dashboard/data_exploration.sql): This file provides SQL queries tailored for data exploration.
-  - ['README.md'](https://github.com/jordanho1006/sql-tableau-projects/blob/main/COVID-19%20Dashboard/README.md): This file provides an overview of the project.
 
 ## References
 - [Our World in Data COVID-19 dataset](https://ourworldindata.org/covid-deaths)
